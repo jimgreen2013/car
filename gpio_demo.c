@@ -113,4 +113,3 @@ int main()
 	test_pwm();
 	test_encoder();
 }
-
